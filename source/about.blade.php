@@ -5,7 +5,11 @@
 @section('content')
     <h1>About</h1>
 
-    <p>My name is {{ $page->owner->name }}</p>
+    <p>
+        My name is {{ $page->owner->name }}, a Senior Software Engineer, living in Houston, TX. Currently getting my B.Sc. in Computer Science from University of Houston. 
+        In my free time, I spend time reading books, listening to podcasts, tinkering in the OSS, and contributing to OSS whenever I find the opportunity. These days I am very much 
+        into Go and enjoying every bits and pieces of it.
+    </p>
 
     <h2>Links:</h2>
 
