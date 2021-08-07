@@ -15,7 +15,7 @@ I myself have much more strong and deep knowledge of the dotnet world than any o
 
 But does this mean am I expert in all of them, well, clearly not. Because the way I perceive various computer languages is in a form of rows and columns, yes, you guessed it right - A Matrix. Your columns define the various languages that we have in our space while the rows define govern the various level of abstractions each go through until the spit the specific machine instruction or your good ol' 0's and 1's.
 
-![Languages Matrix Chart](../images/1-lang-matrix.png)
+![Languages Matrix Chart](/images/1-lang-matrix.png)
 
 If we scope the problem in this well defined matrix space it gives us a
 mental model to picture how we perceive things. The general idea is that you pick one column that is one single language that you want to have deep understanding of. Let's say C#/dotnet and go as deep as possible to become the true subject matter expert such that you can see how the JITed code would be produce as you're writing down your C#. Thus, in order to be an extremely effective and valuable resource for a community, you pick a specific column and go as much deep as possible understanding all the underlying mechanics. 
