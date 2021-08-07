@@ -2,16 +2,16 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'baseUrl' => 'https://yjamal.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'My Deep Thoughts',
+        'description' => 'Personal blog of Yawar Jamal.',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'Yawar',
+        'twitter' => 'yjamal',
+        'github' => 'yj7o5',
     ],
     'services' => [
         'cmsVersion' => '2.10.139',
