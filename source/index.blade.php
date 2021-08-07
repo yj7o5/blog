@@ -1,7 +1,7 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>Yawar Jamal</h1>
+    <h1>Who am I?</h1>
 
     <p>Houstonian, Coder, Programmer, Developer, Tinker, and anything in between.</p>
 

@@ -4,7 +4,7 @@ return [
     'production' => false,
     'baseUrl' => 'https://yjamal.netlify.app',
     'site' => [
-        'title' => 'Sharing Deep Thoughts',
+        'title' => 'Yawar Jamal',
         'description' => 'Personal blog of Yawar Jamal.',
         'image' => 'default-share.png',
     ],
