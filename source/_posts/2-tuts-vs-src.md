@@ -1,5 +1,5 @@
 ---
-title: '01 - Reading text vs reaching out to video tutorials'
+title: '02 - Reading text vs reaching out to video tutorials'
 date: 2021-08-08
 image: https://molekule.science/wp-content/uploads/2020/10/shutterstock_1019265877_reduced-1200x580.jpg 
 comments: false
